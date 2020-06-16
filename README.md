@@ -17,10 +17,10 @@ zamek ma możliwość uzbrajania i rozbrajania poprzez sygnał bluetooth.
 Plik z programem: sejf.c
 Biblioteki wykorzystane w programie:
 
- -Servo.h - https://www.arduinolibraries.info/libraries/servo
- -Keypad.h - https://www.arduinolibraries.info/libraries/keypad
- -LiquidCrystal_PCF8574.h - https://www.arduinolibraries.info/libraries/liquid-crystal_pcf8574
- -SPI.h - https://www.arduinolibraries.info/libraries/mfrc522
- -MFRC522.h - https://www.arduinolibraries.info/libraries/mfrc522
+ Servo.h - https://www.arduinolibraries.info/libraries/servo
+ Keypad.h - https://www.arduinolibraries.info/libraries/keypad
+ LiquidCrystal_PCF8574.h - https://www.arduinolibraries.info/libraries/liquid-crystal_pcf8574
+ SPI.h - https://www.arduinolibraries.info/libraries/mfrc522
+ MFRC522.h - https://www.arduinolibraries.info/libraries/mfrc522
 
 Dokumentacja techniczna: http://ux.up.krakow.pl/~matzyc/pinz/sejf_8c.html#adb871bf359770bbab4bd1ab78f7dd2d4
